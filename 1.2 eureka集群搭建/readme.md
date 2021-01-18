@@ -4,7 +4,8 @@
 4.启动测试类 
 
 
-输出
+输出:
+"""
 {"id":1,"age":30,"message":"http://localhost:8081/person/1"}
 {"id":1,"age":30,"message":"http://localhost:8082/person/1"}
 {"id":1,"age":30,"message":"http://localhost:8081/person/1"}
